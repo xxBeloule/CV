@@ -1,0 +1,100 @@
+body{
+  margin-top: auto;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  background-color: white;
+}
+h1 {
+  margin-top: auto;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+}
+#contact {
+  color: white;
+}
+#D1 {
+  background-color: black;
+  height: 200px;
+  width: 100%;
+  margin-top: 0px;
+  border:0px solid white;
+  border-radius: 10px;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
+}
+#D2 {
+  background-color: #2e4053;
+  height: 200px;
+  width: 95%;
+  margin-top: 25px;
+  border:1px solid black;
+  border-radius: 10px;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#D3 {
+  background-color: #2ecc71;
+  height: 200px;
+  width: 90%;
+  margin-top: 20px;
+  border:1px solid black;
+  border-radius: 10px;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+#D4 {
+  background-color: #c0392b;
+  height: 200px;
+  width: 85%;
+  margin-top: 20px;
+  border:1px solid black;
+  border-radius: 10px;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+#D5 {
+  background-color: #f39c12;
+  height: 200px;
+  width: 80%;
+  margin-top: 20px;
+  border:1px solid black;
+  border-radius: 10px;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+#D6 {
+  background-color: #1f618d;
+  height: 200px;
+  width: 75%;
+  margin-top: 20px;
+  border:1px solid black;
+  border-radius: 10px;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+#titre {
+  color: white;
+  padding-top: 15px;
+  font-family: Courier, monospace;
+  text-shadow: 2px 2px 2px blue;
+}
+#hr1 {
+  width: 50%;
+}
+hr {
+  width: 20%;
+  color: white;
+}
+img {
+flex-wrap: wrap;
+}
+p {
+  margin:auto;
+}
