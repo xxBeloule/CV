@@ -98,3 +98,9 @@ flex-wrap: wrap;
 p {
   margin:auto;
 }
+@media only screen and (max-width:800px) {
+#D2,#D3,#D4,#D5,#D6  {
+  height: auto;
+  margin-right: auto;
+  }
+}
