@@ -34,7 +34,6 @@ h1 {
   font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,sans-serif;
   margin-left: auto;
   margin-right: auto;
-
 }
 #D3 {
   background-color: #2ecc71;
@@ -83,8 +82,8 @@ h1 {
 #titre {
   color: white;
   padding-top: 15px;
-  font-family: 'Courier, monospace;'
-  text-shadow: 2px 2px 2px grey;
+  font-family: Courier, monospace;
+  text-shadow: 2px 2px 2px blue;
 }
 #hr1 {
   width: 50%;
@@ -98,18 +97,15 @@ flex-wrap: wrap;
 }
 p {
   margin:auto;
-    color: white;
+  color: black;
+  font-family:  serif;
 }
 h3 {
   color:white;
+  opacity: 0.8;
 }
 #D2,#D3,#D4,#D5,#D6  {
   border-bottom:5px solid black;
-  }
-  @font-face{
-      font-family : "maFonte";
-      src : url('assets/RousseauDeco.ttf') format('ttf');
-      src : url('assets/RousseauDeco.eot') format('eot')
   }
 @media only screen and (max-width:800px) {
 #D2,#D3,#D4,#D5,#D6  {
